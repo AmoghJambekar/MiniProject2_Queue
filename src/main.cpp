@@ -5,7 +5,7 @@
 using namespace std;
 
 void displayMenu() {
-    cout << "\n=== Queue Operations Menu ===" << endl;
+    cout << "\nQueue Menu" << endl;
     cout << "1. Enqueue" << endl;
     cout << "2. Dequeue" << endl;
     cout << "3. Peek" << endl;
