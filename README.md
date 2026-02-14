@@ -1,4 +1,4 @@
-# Mini Project 2
+# Queue - Mini Project 2: Amogh Jambekar
 
 ## Build Instructions
 ```bash
